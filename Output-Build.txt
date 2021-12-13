@@ -1,0 +1,10 @@
+﻿1>------ Rebuild All started: Project: QMS_ZoneDis, Configuration: Debug x86 ------
+1>  COM Reference 'WMPLib' is the interop assembly for ActiveX control 'AxWMPLib' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3305: Processing COM reference "WMPLib" from path "C:\WINDOWS\system32\wmp.dll". Type library importer encountered a property getter 'sessionPlaylistCount' on type 'WMPLib.IWMPNowPlayingHelperDispatch' without a valid return type.  The importer will attempt to import this property as a method instead.
+1>C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(2151,5): warning MSB3305: Processing COM reference "WMPLib" from path "C:\WINDOWS\system32\wmp.dll". At least one of the arguments for 'IWMPGraphEventHandler.NotifyAcquireCredentials' cannot be marshaled by the runtime marshaler.  Such arguments will therefore be passed as a pointer and may require unsafe code to manipulate.
+1>D:\TRANDONG\DATA\Apps\QMS_BVFamily\Update_Tang4_2018\FIXX\QMS_ZoneDis\QMS_ZoneDis\frmMain.cs(152,36,152,42): warning CS0219: The variable 'vitriN' is assigned but its value is never used
+1>D:\TRANDONG\DATA\Apps\QMS_BVFamily\Update_Tang4_2018\FIXX\QMS_ZoneDis\QMS_ZoneDis\frmMain.cs(231,34,231,49): warning CS0168: The variable 'connectToServer' is declared but never used
+1>D:\TRANDONG\DATA\Apps\QMS_BVFamily\Update_Tang4_2018\FIXX\QMS_ZoneDis\QMS_ZoneDis\frmMain.cs(289,34,289,48): warning CS0168: The variable 'processDisplay' is declared but never used
+1>D:\TRANDONG\DATA\Apps\QMS_BVFamily\Update_Tang4_2018\FIXX\QMS_ZoneDis\QMS_ZoneDis\frmMain.cs(597,30,597,32): warning CS0168: The variable 'mk' is declared but never used
+1>  QMS_ZoneDis -> D:\TRANDONG\DATA\Apps\QMS_BVFamily\Update_Tang4_2018\FIXX\QMS_ZoneDis\QMS_ZoneDis\bin\Debug\QMS_ZoneDis.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

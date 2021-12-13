@@ -1,0 +1,22 @@
+D:\downloads\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.Properties.Resources.resources
+D:\downloads\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.csproj.GenerateResource.Cache
+D:\downloads\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.FormMain.resources
+D:\downloads\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.exe
+D:\downloads\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.pdb
+D:\downloads\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.exe
+D:\downloads\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.pdb
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.exe
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.pdb
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.exe
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.pdb
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.FormMain.resources
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.Properties.Resources.resources
+D:\SKYDRIVER\SkyDrive\CEE\Lecture\Do An TN _ K17EVT 2015\DO AN _ NGUY NHU THANH\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.csproj.GenerateResource.Cache
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.exe
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.pdb
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.exe
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\bin\Debug\WirelessOrder.pdb
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.csprojResolveAssemblyReference.cache
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.FormMain.resources
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.Properties.Resources.resources
+C:\DATA\Apps\QMS_Socket\WirelessOrder\WirelessOrder\obj\x86\Debug\WirelessOrder.csproj.GenerateResource.Cache
